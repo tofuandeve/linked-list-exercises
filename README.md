@@ -21,3 +21,11 @@ With your neighbor look at `exercise1.rb` and answer the following questions.
 1.  Block 1 loops through and creates a list of nodes from 1-8.  What does block 2 do?
 2.  What will `back` be referring to at the end?  Run the program and verify your prediction.
 
+## Exercise 4
+
+The code segment in exercise 4 creates a new list.  Try to implement a find method to find if a value is in the list or not.
+
+## Exercise 5
+
+Write a method which reverses the original list, it will return a reference to a node which is the head of the reversed list.
+
