@@ -18,4 +18,6 @@ With your neighbor look at `exercise1.rb` and answer the following questions.
 
 ## Exercise 3
 
+1.  Block 1 loops through and creates a list of nodes from 1-8.  What does block 2 do?
+2.  What will `back` be referring to at the end?  Run the program and verify your prediction.
 
