@@ -4,7 +4,15 @@ require_relative "list_node"
 #   is in the list and 
 #   return false otherwise
 def find(head, value)
-
+  if head
+    current = head
+    while current
+      if current.data == value
+        return true
+      end
+      current = current.next_node
+    end
+  end
   return false
 end
 
