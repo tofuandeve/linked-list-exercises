@@ -2,7 +2,19 @@ require_relative "list_node"
 
 # Returns the list reversed
 def reverse(head)
-
+  previous = nil
+  current = head
+  
+  while current
+    nextNode = current.next_node
+    
+    current.next_node = previous
+    previous = current
+    current = nextNode
+  end
+  
+  head = previous 
+  
   return head
 end
 
