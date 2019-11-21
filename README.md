@@ -2,7 +2,7 @@
 
 ## Exercise 1
 
-With your neighbor look at `exercise1.rb` and answer the following questions.
+With your table look at `exercise1.rb` and answer the following questions.
 
 1.  Before you run the program, what do you think it does?
 2.  Draw the resulting Linked List.
